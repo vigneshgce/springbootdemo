@@ -24,6 +24,9 @@ test_vinis
 	 create database mydb;
 
 	3) Create the table 
+	
+	
+	
 
 
 	CREATE TABLE `user` (
